@@ -37,9 +37,12 @@ const buildPalette = (theme) => {
                 { offset: 0.45, color: mid },
                 { offset: 1, color: shadow },
             ],
-            hexLineRgb: '13, 148, 136',
-            hexShadowRgb: '8, 145, 178',
-            glowRgb: '14, 165, 233',
+            // hexLineRgb: '13, 148, 136',
+            // hexShadowRgb: '8, 145, 178',
+            // glowRgb: '14, 165, 233',
+            hexLineRgb: '4, 80, 140',
+            hexShadowRgb: ' 6, 110, 150',
+            glowRgb: ' 10, 130, 200',
             glowFadeRgb: '255, 255, 255',
             composite: {
                 hex: 'multiply',
@@ -266,5 +269,3 @@ const ConnectingDotsBackground = ({ children }) => {
 };
 
 export default ConnectingDotsBackground;
-
-

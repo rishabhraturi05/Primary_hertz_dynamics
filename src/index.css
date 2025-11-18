@@ -5,55 +5,6 @@
 body {
   @apply font-sans;
 }
-
-:root {
-  --darkprimary-color: #0EA5E9;
-  /* Electric cyan-blue */
-  --darksecondary-color: #1E293B;
-  /* Gunmetal gray */
-  --darkhighlight-color: #38BDF8;
-  /* Neon blue accent */
-
-  --darkbackground-color: #0B1120;
-  /* Very dark navy */
-  --darksurface-color: #1E293B;
-  /* Card backgrounds */
-
-  --darktext-color: #F1F5F9;
-  /* Light gray text */
-  --darkmuted-text-color: #94A3B8;
-  /* Muted gray-blue */
-
-  --darkgradient-primary: linear-gradient(90deg, #0EA5E9 0%, #38BDF8 100%);
-  --darkgradient-hover: linear-gradient(90deg, #0284C7 0%, #0EA5E9 100%);
-
-  --darkborder-color: #1E3A5F;
-  --darkshadow-color: rgba(0, 0, 0, 0.6);
-
-
-
-
---primary-color: #0284C7;
-/* Deep sky blue */
---secondary-color: #E2E8F0;
-/* Light blue-gray */
---highlight-color: #0EA5E9;
-/* Bright cyan accent */
---background-color: #E0F7FA;
-/* Ice blue background */
---surface-color: #B2EBF2;
-/* Light ice blue */
---text-color: #1E293B;
-/* Dark slate text */
---muted-text-color: #64748B;
-/* Muted slate-blue */
---gradient-primary: linear-gradient(90deg, #0284C7 0%, #0EA5E9 100%);
---gradient-hover: linear-gradient(90deg, #0369A1 0%, #0284C7 100%);
---border-color: #4DD0E1;
---shadow-color: rgba(30, 41, 59, 0.15);
-}
-
-
 :root {
   --darkprimary-color: #0EA5E9;
   /* Electric cyan-blue */
@@ -87,54 +38,7 @@ body {
   /* Light blue-gray */
   --highlight-color: #0EA5E9;
   /* Bright cyan accent */
-  --background-color: #E0F7FA;
-  /* Ice blue background */
-  --surface-color: #B2EBF2;
-  /* Light ice blue */
-  --text-color: #1E293B;
-  /* Dark slate text */
-  --muted-text-color: #64748B;
-  /* Muted slate-blue */
-  --gradient-primary: linear-gradient(90deg, #0284C7 0%, #0EA5E9 100%);
-  --gradient-hover: linear-gradient(90deg, #0369A1 0%, #0284C7 100%);
-  --border-color: #4DD0E1;
-  --shadow-color: rgba(30, 41, 59, 0.15);
-}
-
-:root {
-  --darkprimary-color: #0EA5E9;
-  /* Electric cyan-blue */
-  --darksecondary-color: #1E293B;
-  /* Gunmetal gray */
-  --darkhighlight-color: #38BDF8;
-  /* Neon blue accent */
-
-  --darkbackground-color: #0B1120;
-  /* Very dark navy */
-  --darksurface-color: #1E293B;
-  /* Card backgrounds */
-
-  --darktext-color: #F1F5F9;
-  /* Light gray text */
-  --darkmuted-text-color: #94A3B8;
-  /* Muted gray-blue */
-
-  --darkgradient-primary: linear-gradient(90deg, #0EA5E9 0%, #38BDF8 100%);
-  --darkgradient-hover: linear-gradient(90deg, #0284C7 0%, #0EA5E9 100%);
-
-  --darkborder-color: #1E3A5F;
-  --darkshadow-color: rgba(0, 0, 0, 0.6);
-
-
-
-
-  --primary-color: #0284C7;
-  /* Deep sky blue */
-  --secondary-color: #E2E8F0;
-  /* Light blue-gray */
-  --highlight-color: #0EA5E9;
-  /* Bright cyan accent */
-  --background-color: #E0F7FA;
+  --background-color: #87CEFA;
   /* Ice blue background */
   --surface-color: #B2EBF2;
   /* Light ice blue */
